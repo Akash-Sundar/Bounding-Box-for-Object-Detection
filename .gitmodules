@@ -1,3 +1,6 @@
 [submodule "YOLO"]
 	path = YOLO
 	url = https://github.com/Akash-Sundar/YOLO.git
+[submodule "Faster-RCNN"]
+	path = Faster-RCNN
+	url = https://github.com/Akash-Sundar/Faster-RCNN.git
